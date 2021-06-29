@@ -1,2 +1,2 @@
 Hello Image Post
-<img src="./matt.jpg" />
+<img src="matt.jpg" />
