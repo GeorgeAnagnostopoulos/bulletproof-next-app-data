@@ -1,2 +1,2 @@
 Hello Image Post
-<img src="matt.jpg" />
+<img src="https://github.com/GeorgeAnagnostopoulos/bulletproof-next-app-data/raw/master/data/matt.jpg" />
